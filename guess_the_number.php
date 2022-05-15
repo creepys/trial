@@ -32,5 +32,7 @@ for ($i = 0; $i < 10; $i++) {
     }
 }
 
+//how to look user input and re-run the validation
+
 ?>
 
